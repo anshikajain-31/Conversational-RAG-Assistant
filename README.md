@@ -163,9 +163,3 @@ print(chat_res.json())
 
 ---
 
-If you want, I can also make:
-✅ A more minimal version
-✅ A more aesthetic emoji-heavy version
-✅ A professional corporate-style README
-
-Just tell me!
